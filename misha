@@ -1,0 +1,14 @@
+<tr>
+       <td  colspan="2" width="780" height="38"
+            background="images/menu.jpg">
+
+          <table border="0"  cellpadding="5" cellspacing="0">
+               <tr><td>
+                 <font  color="#FFFFFF" size="5">
+                   главная ||шаблоны || контакты 
+                 </font>
+               </td></tr>
+          </table>
+
+       </td>
+     </tr>
